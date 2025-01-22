@@ -1,1 +1,26 @@
-IyBDYW52YXMgQW5ub3VuY2VtZW50cwoKUHl0aG9uIHNjcmlwdCBmb3IgY3JlYXRpbmcgYW5kIHBvc3RpbmcgZm9ybWF0dGVkIGFubm91bmNlbWVudHMgdG8gQ2FudmFzIExNUyB3aXRoIGVtYmVkZGVkIHZpZGVvcyBhbmQgc3R5bGVkIGNvbnRlbnQuCgojIyBGZWF0dXJlcwoKLSBDcmVhdGUgZm9ybWF0dGVkIGFubm91bmNlbWVudHMgd2l0aCBjb25zaXN0ZW50IHN0eWxpbmcKLSBFbWJlZCBLYW5vcHkgdmlkZW9zCi0gQWRkIGdlbmVyYWwgYW5ub3VuY2VtZW50cyBhbmQgaW1wb3J0YW50IG5vdGVzCi0gUHJldmlldyBhbm5vdW5jZW1lbnRzIGJlZm9yZSBwb3N0aW5nCi0gU2F2ZSBsb2NhbCBIVE1MIGNvcGllcwotIFBvc3QgdG8gbXVsdGlwbGUgY291cnNlcyBzaW11bHRhbmVvdXNseQoKIyMgVXNhZ2UKCjEuIFJ1biB0aGUgc2NyaXB0CjIuIEVudGVyIENhbnZhcyBVUkwgYW5kIEFQSSB0b2tlbgozLiBFbnRlciBjb3Vyc2UgSURzCjQuIEZvbGxvdyBwcm9tcHRzIHRvIGFkZCBjb250ZW50CjUuIFByZXZpZXcgYW5kIGNvbmZpcm0gcG9zdGluZwoKIyMgUmVxdWlyZW1lbnRzCgotIFB5dGhvbiAzLjYrCi0gcmVxdWVzdHMgbGlicmFyeQotIENhbnZhcyBBUEkgdG9rZW4K
+
+## HTML Template
+
+The announcement's HTML format is constructed using these templates:
+
+*   **Main HTML Template:** Wraps the entire announcement content, includes default fonts, colors, and basic styles.
+*   **Video Section Template:** Includes a link to the video.
+*   **Announcements Section Template:** Formats announcements as a bulleted list.
+*   **Notes Section Template:** Displays important notes with a slightly different background color.
+
+## Dependencies
+
+*   Python 3.6+
+*   `requests` library
+
+## Important Notes
+* Be mindful to not share your API token with unauthorized users.
+* Please be courteous when using this tool to post messages in your courses.
+* If you encounter errors, ensure your course IDs and API token are correct and that your Canvas URL is formatted correctly.
+
+## License
+This project is open-source and available under the [insert license here, e.g., MIT License].
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request with any improvements or bug fixes.
