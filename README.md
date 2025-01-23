@@ -56,7 +56,3 @@ This Python script is designed to simplify the process of creating and posting a
     ```
     Replace `your_script_name.py` with the actual name of the python file.
 4.  **Follow the prompts:** Follow the on-screen prompts to provide your Canvas details, course IDs, and announcement content.
-
-## Setup Example
-
-Here's an example of the setup and the prompt inputs:
