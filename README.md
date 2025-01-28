@@ -6,7 +6,7 @@ This Python script is designed to simplify the process of creating and posting a
 
 Watch a demonstration of the script in action:
 
-[View Demo Video](http://ua896588.serversignin.com/lucasblanco.com/ed/videos/apidemo.mp4)
+<a href="http://ua896588.serversignin.com/lucasblanco.com/ed/videos/apidemo.mp4" target="_blank">View Demo Video</a>
 
 ## Features
 
