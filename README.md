@@ -1,6 +1,13 @@
+
 # Canvas Announcement Poster
 
 This Python script is designed to simplify the process of creating and posting announcements to multiple Canvas courses. It allows you to format your announcements with linked videos, general announcements as bulleted lists, and important notes, all presented in a clean and consistent HTML format. Before posting, you can preview the announcement in your web browser.
+
+## Demo
+
+Watch a demonstration of the script in action:
+
+https://user-images.githubusercontent.com/122809544/apidemo.mp4
 
 ## Features
 
